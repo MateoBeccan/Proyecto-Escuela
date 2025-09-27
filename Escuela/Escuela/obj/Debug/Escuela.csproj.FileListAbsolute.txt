@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\Escuela\Escuela\bin\Debug\Escuela.exe.config
+C:\Users\Usuario\source\repos\Escuela\Escuela\bin\Debug\Escuela.exe
+C:\Users\Usuario\source\repos\Escuela\Escuela\bin\Debug\Escuela.pdb
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.frmPrincipal.resources
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.exe
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.pdb
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.frmAlumnos.resources
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.frmAsignatura.resources
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.frmNotas.resources
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.frmCiudades.resources
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.frmTiposdeExamen.resources
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.frmAlumnosListado.resources
+C:\Users\Usuario\source\repos\Escuela\Escuela\obj\Debug\Escuela.frmNotasAlumno.resources
